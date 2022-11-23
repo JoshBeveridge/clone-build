@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^9.7.4",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "browserslist": "^4.8.5",
     "clone-framework": "^2.4.16",
     "cssnano": "^4.1.10",
